@@ -1,0 +1,34 @@
+body{
+background-color: antiquewhite;    
+}
+.div1{
+    position:relative;
+   /* margin: 15px;*/
+    left: 200px;
+    top:50px;
+    background-color: cadetblue;
+    max-width: 460px;
+    
+}
+.contacto{
+    color: red;
+    margin:10px;
+    text-decoration: none;    
+}
+.index{
+   color: red;
+    margin:10px;
+    text-decoration: none;    
+}
+.login{
+    color: red;
+    margin:10px;
+    text-decoration: none;       
+}
+.logo{
+    vertical-align: middle;
+   align-self: baseline;
+   
+   
+}
+
