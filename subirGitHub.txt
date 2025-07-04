@@ -1,0 +1,39 @@
+✅ PASO 1: Crea un nuevo repositorio en GitHub 
+
+    Ve a https://github.com  
+    Haz clic en el botón "New"  (Nuevo repositorio)
+    Dale el mismo nombre que tu carpeta, por ejemplo: navegador
+    No marques la opción "Initialize this repository with a README
+
+    ✅ PASO 2: Abre la terminal y entra a tu carpeta 
+
+Supongamos que tu carpeta está en el escritorio. 
+cd /d C:/Users/TU_USUARIO/Desktop/navegador
+
+✅ PASO 3: Inicializa Git en tu carpeta
+git init
+
+✅ PASO 4: Conecta tu carpeta con el repositorio de GitHub
+git remote add origin https://github.com/TU_USUARIO/navegador.git 
+
+✅ PASO 5: Añade todos los archivos al repositorio
+
+git add .
+
+✅ PASO 6: Haz tu primer commit
+
+git commit -m "Primer commit"
+
+✅ PASO 7: Establece la rama principal
+
+git branch -M main
+
+✅ PASO 8: Sube todo a GitHub
+
+git push -u origin main
+
+agregar cambios luego
+
+git add .
+git commit -m "Cambios importantes"
+git push

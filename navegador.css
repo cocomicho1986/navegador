@@ -7,27 +7,29 @@ background-color: antiquewhite;
     left: 200px;
     top:50px;
     background-color: cadetblue;
-    max-width: 460px;
+    max-width: 800px;
     
 }
-.contacto{
+.links{
     color: red;
-    margin:10px;
-    text-decoration: none;    
+    margin-left:100px;
+    text-decoration: none;
+        
 }
 .index{
-   color: red;
+  color: red;
     margin:10px;
-    text-decoration: none;    
+    text-decoration: none;
 }
 .login{
-    color: red;
+   color: red;
     margin:10px;
-    text-decoration: none;       
+    text-decoration: none; 
+ 
 }
 .logo{
     vertical-align: middle;
-   align-self: baseline;
+   align-self: left;
    
    
 }
