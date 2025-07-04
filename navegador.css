@@ -6,7 +6,7 @@ background-color: antiquewhite;
    /* margin: 15px;*/
     left: 200px;
     top:50px;
-    background-color: cadetblue;
+    background-color: rgba(160, 124, 95, 0.877);
     max-width: 800px;
     
 }
@@ -30,7 +30,8 @@ background-color: antiquewhite;
 .logo{
     vertical-align: middle;
    align-self: left;
-   
+   width: 250px;
+ height: 250px;  
    
 }
 
